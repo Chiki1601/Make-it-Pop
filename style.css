@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+}
+
+canvas {
+  position: absolute;
+  filter: drop-shadow(2px 4px 6px rgba(255, 255, 255, 0.3));
+}
+
+svg {
+  position: absolute;
+  display: none;
+}
